@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DarkModePreferencesTutorial</string>
+    <string name="hello_friends">Hello, friends!</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="ui">UI</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_def_value">MODE_NIGHT_FOLLOW_SYSTEM</string>
+    <string name="settings">Settings</string>
+    <string name="image_for_representational_purpose">Image for representational purpose</string>
+</resources>
